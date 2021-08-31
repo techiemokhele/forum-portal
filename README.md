@@ -7,3 +7,5 @@ CSS
 JavaScript
 Jquery
 Web Storage API
+
+Can preview application from this link: https://techiemokhele.github.io/forum-portal/
